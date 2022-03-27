@@ -1,0 +1,13 @@
+package com.pes2ug19cs138;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ToDoListApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
