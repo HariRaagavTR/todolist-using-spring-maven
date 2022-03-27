@@ -16,4 +16,11 @@ To run the to-do list app:
 Your app is now running! It can be viewed @ `localhost:8080`!
 
 ## Output Screenshots
-TBA
+### Adding Tasks ###
+![Add Task](https://github.com/HariRaagavTR/todolist-using-spring-maven/blob/main/screenshots/AddTask.jpg)
+![Task Added](https://github.com/HariRaagavTR/todolist-using-spring-maven/blob/main/screenshots/TaskAdded.jpg)
+### Updating Tasks ###
+![Update Task](https://github.com/HariRaagavTR/todolist-using-spring-maven/blob/main/screenshots/UpdateTask.jpg)
+![Task Updated](https://github.com/HariRaagavTR/todolist-using-spring-maven/blob/main/screenshots/TaskUpdated.jpg)
+### Deleting Tasks ###
+![Task Deleted](https://github.com/HariRaagavTR/todolist-using-spring-maven/blob/main/screenshots/TaskDeleted.jpg)
